@@ -61,3 +61,6 @@ Crystal Ball Plugin is entirely FREE, and you can see all those changes in your 
 
 = 1.0 =
 * WP Web Changes Plugin for Crystal Ball Automation
+
+= 1.1 =
+* Bug Fixed
